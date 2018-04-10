@@ -7,10 +7,13 @@
             "email": "1063446909@qq.com"
         }
     ],
-    "require": {},
+   "require": {
+            "php": ">=5.3.0"
+},
 	  "autoload": {
-        "psr-0": {
-            "lxwphp/test": "src/"
+        "psr-4": {
+            "lxwphp\\test\\": "src/"
         }
-    }
+    },
+	"minimum-stability": "dev"
 }
