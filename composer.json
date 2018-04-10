@@ -1,5 +1,5 @@
 {
-    "name": "ty/test",
+    "name": "lxw/test",
     "description": "tezt",
     "authors": [
         {
@@ -10,7 +10,7 @@
     "require": {},
 	  "autoload": {
         "psr-0": {
-            "ty/test": "src/"
+            "lxw/test": "src/"
         }
     }
 }
