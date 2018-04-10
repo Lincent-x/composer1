@@ -1,0 +1,16 @@
+{
+    "name": "ty/test",
+    "description": "tezt",
+    "authors": [
+        {
+            "name": "Xiaowei Liang",
+            "email": "1063446909@qq.com"
+        }
+    ],
+    "require": {},
+	  "autoload": {
+        "psr-0": {
+            "ty/test": "src/"
+        }
+    }
+}
