@@ -1,5 +1,5 @@
 <?php
-namespace tlanyan;
+namespace lxwphp\test;
 
 class HelloComposer
 {

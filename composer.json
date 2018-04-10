@@ -1,6 +1,8 @@
 {
     "name": "lxwphp/test",
     "description": "tezt",
+	"type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Xiaowei Liang",
